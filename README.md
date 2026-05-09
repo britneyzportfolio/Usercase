@@ -17,17 +17,17 @@ Each case study includes a **Business Requirements Document (BRD)** and a **UML 
 ### 2. University Library Management System
 * **Focus:** Resource Allocation, Reservation Rules, and Real-time Database Sync.
 * **Key Learning:** Implementing conditional business rules (e.g., Renewals based on reservation status).
-* **Artifacts:** [View Diagram](1.4library.png) | [View BRD](1.4library.pdf)
+* **Artifacts:** [View Diagram](1.3library.png) | [View BRD](1.4library.pdf)
 
 ### 3. Online Class Enrollment System
 * **Focus:** Stakeholder Hierarchy (Generalization) and Prerequisite Validations.
 * **Key Learning:** Using Actor Generalization to manage Undergraduate/Postgraduate student roles.
-* **Artifacts:** [View Diagram](1.2class.png) | [View BRD](1.2class.pdf)
+* **Artifacts:** [View Diagram](1.4class.png) | [View BRD](1.2class.pdf)
 
 ### 4. Hostel Management & Resident Services
 * **Focus:** Application Lifecycles, Document Verification, and Maintenance Services.
 * **Key Learning:** End-to-end process mapping from application to resident support.
-* **Artifacts:** [View Diagram](1.3hostel.png) | [View BRD](1.3Hostel.pdf)
+* **Artifacts:** [View Diagram](1.2hostel.png) | [View BRD](1.3Hostel.pdf)
 
 
 ## 🛠 Tools Used
